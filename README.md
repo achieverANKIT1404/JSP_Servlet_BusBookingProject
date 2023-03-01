@@ -1,4 +1,4 @@
-# Bus Booking Website using JSP and Servlets
+# Bus Booking Website using JSP and Servlets🚌🎟️
 This project is a web-based application for booking bus tickets. It is built using JavaServer Pages (JSP) and Servlets.The website allows users to search for available buses and their schedules based on their source and destination. Users can also select their preferred seats and make payments online.
 
 <h2>OUTPUT⬇️</h2>
